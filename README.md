@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/vxY8yZp/java-banner.jpg)
+
 
 # 👋 Hi, I'm Sang!
 
